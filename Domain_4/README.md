@@ -7,7 +7,7 @@
 |4.3 | [Given a scenario, implement identity and access management controls.](https://github.com/erich-tech/Security_Plus/tree/main/Domain_4#readme) |
 |4.4 | [Given a scenario, differentiate common account management practices.](https://github.com/erich-tech/Security_Plus/tree/main/Domain_4#readme) |
 ```
-NOTE: Work in progress. Please come back again soon! 
+NOTE: Currently in development. Please check back soon! 
 ```
 
 
