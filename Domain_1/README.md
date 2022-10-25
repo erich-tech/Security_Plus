@@ -10,6 +10,6 @@
 |1.6 | [Explain the impact associated with types of vulnerabilities.](https://github.com/erich-tech/Security_Plus/tree/main/Domain_1#readme) |
 
 ```
-NOTE: Work in progress. Please come back again soon! 
+NOTE: Currently in development. Please check back soon! 
 ```
 
