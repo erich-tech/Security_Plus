@@ -7,7 +7,7 @@
 |6.3 | [Given a scenario, install and configure wireless security settings.](https://github.com/erich-tech/Security_Plus/tree/main/Domain_6#readme) |
 |6.4 | [Given a scenario, implement public key infrastructure.](https://github.com/erich-tech/Security_Plus/tree/main/Domain_6#readme) |
 ```
-NOTE: Work in progress. Please come back again soon! 
+NOTE: Currently in development. Please check back soon! 
 ```
 
 
