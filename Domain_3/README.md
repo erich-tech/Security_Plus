@@ -13,7 +13,7 @@
 |3.9 | [Explain the importance of physical security controls.](https://github.com/erich-tech/Security_Plus/tree/main/Domain_3#readme) |
 
 ```
-NOTE: Work in progress. Please come back again soon! 
+NOTE: Currently in development. Please check back soon! 
 ```
 
 
