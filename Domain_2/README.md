@@ -10,7 +10,7 @@
 |2.6 | [Given a scenario, implement secure protocols.](https://github.com/erich-tech/Security_Plus/tree/main/Domain_2#readme) |
 
 ```
-NOTE: Work in progress. Please come back again soon! 
+NOTE: Currently in development. Please check back soon! 
 ```
 
 
